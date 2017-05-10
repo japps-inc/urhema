@@ -1,0 +1,21 @@
+{
+    "name": "rhema",
+    "type": "web app",
+    "description": "",
+    "keywords": ["", "", "", "", ""],
+    "homepage": "https://jappsinc.github.io/rhema",
+    "license": "HOT",
+    "authors": [
+        {
+            "name": "Japps",
+            "role": "Company"
+        }
+    ],
+    "support": {
+        "issues": "https://jappsinc.github.io/rhema",
+        "source": "https://jappsinc.github.io/rhema"
+    },
+    "require": {
+        "php": ">=7.1.1"
+    }
+}
